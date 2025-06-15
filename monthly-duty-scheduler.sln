@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monthly-duty-scheduler", "monthly-duty-scheduler.csproj", "{C6867637-84EB-88AC-731F-2E6DF83FD936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6867637-84EB-88AC-731F-2E6DF83FD936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6867637-84EB-88AC-731F-2E6DF83FD936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6867637-84EB-88AC-731F-2E6DF83FD936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6867637-84EB-88AC-731F-2E6DF83FD936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77CAB56-6F79-4A2A-B2E9-58F5129AF1EE}
+	EndGlobalSection
+EndGlobal

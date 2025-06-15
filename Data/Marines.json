@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "Sgt Smith",
+        "ShiftSchedule": [
+            {"Shift": "Days", "StartDay": 1, "EndDay": 15},
+            {"Shift": "Eves", "StartDay": 16, "EndDay": 30}
+        ],
+        "UnavailableDays": [5, 6, 22]
+    }
+]

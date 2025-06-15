@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Post 1",
+        "DailyHours": 24,
+        "OperatingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    },
+    {
+        "Name": "Rover",
+        "DailyHours": 8,
+        "OperatingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    }
+]
